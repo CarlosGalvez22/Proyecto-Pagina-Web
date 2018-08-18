@@ -1,2 +1,3 @@
-# Traductor-Livefox
-Traductor que traduce
+# Proyecto Pagina Web
+Carlos Gálvez
+Monica Navas  
